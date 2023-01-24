@@ -1,0 +1,12 @@
+Contents:
+- Designs
+    - Contains the code and STL files used to construct the project
+
+- Reports
+    - Contains all proposal, CDR, weekly reports, final report, and ALL presentations
+
+- Audiovisual Media
+    - Contains links to the project demonstration and various pictures of the final product
+
+- Notebooks
+    - Contains individual notebooks
